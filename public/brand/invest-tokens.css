@@ -1,0 +1,15 @@
+:root {
+  --invest-red: #F41118;
+  --invest-action: #D80E1C;
+  --invest-charcoal: #17171B;
+  --invest-white: #FFFFFF;
+  --invest-paper: #F7F7F8;
+  --invest-slate: #66666F;
+  --invest-border: #E5E5E9;
+  --invest-font: 'Poppins', Arial, sans-serif;
+  --invest-radius-button: 7px;
+  --invest-radius-card: 12px;
+  --invest-content-width: 1280px;
+}
+
+:root { --invest-ink: #192638; --invest-market-navy: #122033; }
